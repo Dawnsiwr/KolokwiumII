@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolokwiumII", "KolokwiumII\KolokwiumII.csproj", "{187E50E8-FAD0-4B9F-B4F8-33AE52A72A89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187E50E8-FAD0-4B9F-B4F8-33AE52A72A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187E50E8-FAD0-4B9F-B4F8-33AE52A72A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187E50E8-FAD0-4B9F-B4F8-33AE52A72A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187E50E8-FAD0-4B9F-B4F8-33AE52A72A89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE22253E-1F5E-4D20-AB8E-F199B7A310E2}
+	EndGlobalSection
+EndGlobal
